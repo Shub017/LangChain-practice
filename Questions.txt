@@ -1,0 +1,23 @@
+Generated Interview Questions:
+## Interview Questions for MERN Stack Developer (5 Years Experience)
+
+Here are some interview questions tailored to a candidate with 5 years of experience in the MERN stack:
+
+**Technical Skills & Experience:**
+
+1. **You've worked with both Node.js and Python. Can you describe a project where you chose one over the other and explain your reasoning?** (Assesses decision-making skills and understanding of language strengths)
+2. **Describe your experience with MongoDB. What are some of the challenges you've faced when working with NoSQL databases, and how did you overcome them?** (Evaluates practical experience and problem-solving skills)
+3. **Imagine you're building a single-page application with React. How would you structure your components and manage state for optimal performance?** (Tests knowledge of React best practices and performance optimization)
+4. **Explain the role of middleware in Express.js. Can you provide an example of a custom middleware function you've written and its purpose?** (Assesses understanding of Express.js architecture and practical application)
+5. **You mention experience with DSA and SQL. Can you describe a situation where you had to utilize both in a project?** (Evaluates ability to apply diverse skills and connect different technologies)
+
+**Problem-Solving & Critical Thinking:**
+
+6. **You encounter a performance bottleneck in a Node.js application. Walk me through your debugging process and the tools you would use to identify and resolve the issue.** (Assesses problem-solving approach and knowledge of debugging tools)
+7. **How do you stay updated with the latest trends and advancements in the ever-evolving world of web development?** (Evaluates commitment to continuous learning and professional development)
+
+**Bonus:**
+
+8. **Do you have any personal projects or contributions to open-source projects that showcase your skills and passion for web development?** (Provides insight into candidate's initiative and interests)
+
+These questions are designed to assess the candidate's technical proficiency, problem-solving abilities, and experience level. Remember to adapt these questions based on the specific requirements of the role and your company.
