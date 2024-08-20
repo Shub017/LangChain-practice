@@ -15,7 +15,7 @@ const extractTextFromPDF = async (pdfPath) => {
 const generateInterviewQuestions = async (text) => {
   const llm = new ChatGoogleGenerativeAI({
     model: "gemini-1.5-pro",
-    temperature: 0,
+    // temperature: 0, //can vary between 0 to 1 and in some implementation can go beyond 1
     maxRetries: 2,
     apiKey: process.env.google_AI, // Ensure your API key is set in .env file
   });
