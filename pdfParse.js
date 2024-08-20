@@ -51,3 +51,5 @@ const main = async () => {
 };
 
 main();
+
+//link for gemini embedding: https://python.langchain.com/v0.2/docs/integrations/text_embedding/google_generative_ai/
